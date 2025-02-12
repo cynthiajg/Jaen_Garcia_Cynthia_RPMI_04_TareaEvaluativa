@@ -16,3 +16,5 @@ Assets Unity. Archivos:
  - Settings
  - UI
  - UI Toolkit
+
+Out. Archivo ejecutable.
