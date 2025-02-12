@@ -1,0 +1,19 @@
+# Ignorar archivos de sistema de macOS y Windows
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos y carpetas generados por Unity
+[Ll]ibrary/
+[Tt]emp/
+[Tt]argets/
+obj/
+# Archivos de configuración del usuario
+.vscode/
+.idea/
+# Archivos de compilación
+*.log
+*.bak
+*.swp
+
+# Ignorar archivos de los servicios de Unity
+UserSettings/
